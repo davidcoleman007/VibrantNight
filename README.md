@@ -65,5 +65,6 @@ Once it runs, modify the Flash Builder Syntax coloring to the following settings
     - Special : #ffba00
     - String : #63ff7d
     
+These color settings will look great on a dark background and integrate perfectly with the Vibrant Ink base color theme.
 
     
